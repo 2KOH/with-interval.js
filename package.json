@@ -1,0 +1,14 @@
+{
+  "name": "with-interval",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node -e \"require('my-build')()\""
+  },
+  "author": "2KOH",
+  "license": "MIT",
+  "devDependencies": {
+    "my-build": "github:2KOH/my-build.js#0.0.1"
+  }
+}
